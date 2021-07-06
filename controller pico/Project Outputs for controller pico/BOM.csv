@@ -1,0 +1,6 @@
+Designator,Quantity,Description,Comment,LibRef,Footprint
+
+"A1, A2, A3, A4","4","","8x8 LED Array","12x12 SK6805 Array","12x12 SK6805 Matrix"
+"J1","1","","Raspi Pico DIP","Raspi Pico DIP","Raspi Pico DIP"
+"P1, P2, P3, P4","4","Header, 3-Pin","Header 3","Header 3","HDR1X3"
+"P5","1","Header, 2-Pin","Header 2","Header 2","HDR1X2"

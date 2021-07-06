@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\jamesliu\Documents\Altium\1515_sk6805_array\controller pico\main.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=JLC_MinimumAnnularRing|Scope=Board|Minimum=5.12
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=JLC_Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=JLC_Clearance_Top|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=JLC_Clearance_SB|Scope=Board|Minimum=5.00
