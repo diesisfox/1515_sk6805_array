@@ -1,0 +1,165 @@
+*************************************************************
+FileName = Gerber.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Pad Master
+      File : Gerber.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Gerber.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Gerber.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Gerber.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Gerber.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Gerber.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Gerber.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Gerber.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Gerber.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Gerber.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Gerber.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Gerber.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D19
+*************************************************************
+
